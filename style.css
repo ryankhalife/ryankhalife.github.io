@@ -38,3 +38,8 @@ header {
   color: #56647d;
   font-size: 12px;
 }
+
+.big-textarea {
+  width: 500px;
+  height: 60px;
+}
