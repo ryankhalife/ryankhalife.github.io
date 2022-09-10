@@ -18,6 +18,8 @@ body {
 
 header {
   background-color: #ffffff;
+  text-align: center;
+  padding: 30px 0;
 }
 
 .form-content {
