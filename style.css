@@ -16,6 +16,10 @@ table {
   margin-bottom: 50px;
 }
 
+td {
+  padding-top: 10px;
+}
+
 .container {
   width: 800px;
   margin: 50px auto;
@@ -42,7 +46,6 @@ header {
   color: #81474d;
   font-weight: 500;
   font-size: 16px;
-  padding-bottom: 8px;
 }
 
 .input-box {
@@ -67,6 +70,7 @@ header {
 .big-textarea {
   width: 100%;
   height: 150px;
+  margin-top: 10px;
 }
 
 .center-text {
