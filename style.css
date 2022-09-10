@@ -10,6 +10,12 @@ body {
   background-color: #aaaaab;
 }
 
+.container {
+  width: 100%;
+  max-width: 800px;
+  margin: 50px auto;
+}
+
 header {
   background-color: #ffffff;
 }
