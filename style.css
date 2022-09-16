@@ -34,6 +34,8 @@ header {
 .form-content {
   background-color: #e5e4e5;
   padding: 20px 50px 45px;
+  border-radius: 0 0 4px 4px;
+  box-shadow: 0 5px 10px -5px rgba(108, 108, 108, 0.75);
 }
 
 .title {
